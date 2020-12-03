@@ -1,0 +1,13 @@
+C:\Users\layor\source\repos\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.csprojAssemblyReference.cache
+C:\Users\layor\source\repos\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.AssemblyInfoInputs.cache
+C:\Users\layor\source\repos\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.AssemblyInfo.cs
+C:\Users\layor\source\repos\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\layor\source\repos\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.exe
+C:\Users\layor\source\repos\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.deps.json
+C:\Users\layor\source\repos\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.runtimeconfig.json
+C:\Users\layor\source\repos\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.runtimeconfig.dev.json
+C:\Users\layor\source\repos\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.dll
+C:\Users\layor\source\repos\Zadanie\bin\Debug\netcoreapp3.1\Zadanie.pdb
+C:\Users\layor\source\repos\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.dll
+C:\Users\layor\source\repos\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.pdb
+C:\Users\layor\source\repos\Zadanie\obj\Debug\netcoreapp3.1\Zadanie.genruntimeconfig.cache
